@@ -1,0 +1,12 @@
+{
+    "prueba1": {
+        "operacion": "suma",
+        "numeros": [1, 2],
+        "resultado": 3
+    },
+    "prueba2": {
+        "operacion": "resta",
+        "numeros": [3,2,1],
+        "resultado": 0
+    }
+}
